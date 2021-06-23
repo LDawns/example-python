@@ -3,3 +3,6 @@ def smile():
 
 def frown():
     return ":("
+
+def hello():
+    return "hello world"
